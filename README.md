@@ -1,6 +1,6 @@
-# ANANAX CANONICAL INTAKE
+# ANANAX ANALYTICAL CIRCULAR
 ## Markdown documentation file
-## Ananax2d_Canonical_Intake Workflow over Isight
+## Ananax2d_Analytical_Circular Workflow over Isight
 
 | | CANONICAL | ANALYTICAL |
 |-----------|:-----------:|:-----------:|
@@ -9,7 +9,7 @@
 
 ### Workflow type & role
 
-This Workflow (__Canonical Intake__) has the final goal (*like the other Workflows*) the acoustic attenuation matrix calculus.
+This Workflow (__Analytical Circular__) has the final goal (*like the other Workflows*) the acoustic attenuation matrix calculus.
 This Workflow is for canonical case of air intake, that is to say (unlike the analytical case) we do not have to generate any mesh. 
 
 The mesh is assumed to be uniform and Actran automatically generates it for us. Sounds simple right ?
