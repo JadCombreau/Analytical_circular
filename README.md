@@ -3,7 +3,7 @@
 ### The aim of this box :
 *Allows among other things the creation of initialization variables, environment variables or even structure test and the input XML file reading.*
 
-__The Initialization part of the workflow presents nine boxes :__
+### The Composition :
 
 - __Set ANANAX Environment and Resources PATH :__ *to be continued*
 - __Reference to init_v2019r1 :__ *to be continued*
