@@ -18,7 +18,7 @@ The air inlet duct is therefore assumed to be more or less uniform. We do not ca
 
 __This Workflow therefore presents four boxes :__
 
-![Canonical Workflow](https://user-images.githubusercontent.com/45098441/72733825-eddd6a00-3b98-11ea-9b77-2d24f6790d91.jpeg)
+![Analytical Circular Workflow](https://user-images.githubusercontent.com/45098441/86543241-107ff700-bf1d-11ea-8b44-2653949889d9.JPG)
 ----------------------------
 
 
