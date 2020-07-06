@@ -1,9 +1,9 @@
-## Init Workflow Subpart
+## Reference to Init_v2019r1
 ### Scripts Language
 
-All the Copy Init box is written in Dynamic Java.
+All the __Reference to Init_v2019r1__ box is written in Dynamic Java.
 
-__Init__ Workflow part contains three boxes :
+__Reference to Init_v2019r1__ Workflow part contains three boxes :
 
 - *__Get JobID__ box written in Java language*
 - *__Initialization__ box written in Java language*
@@ -28,7 +28,7 @@ __Copy Scripts & Manage Rights :__
 *__Copy Scripts & Manage Rights__ script allows the folders copy and rights managing*
 
 
-__Init__ subpart is preceded by the __Set ANANAX environment and resources PATH__ box, which consist in variable environment sourcing (necessary for the execution of the various workflow scripts) and followed by the __Create Folders__ box which consist in the repository creation (contained in the *namesOfFolder* agregate).
+__Reference to Init_v2019r1__ subpart is preceded by the __Set ANANAX environment and resources PATH__ box, which consist in variable environment sourcing (necessary for the execution of the various workflow scripts) and followed by the __Create Folders__ box which consist in the repository creation (contained in the *namesOfFolder* agregate).
 
 ![Initialization components](https://user-images.githubusercontent.com/45098441/72733867-08afde80-3b99-11ea-88fb-0736ee0ea2e3.jpeg)
 
