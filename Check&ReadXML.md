@@ -12,7 +12,9 @@ In the case of this Workflow (*Canonical Intake*), we need to retrieve the value
 
 *__Check & Read XML__ box is preceded by the __Create Folders__ box which consist in the repository creation (contained in the *namesOfFolder* agregate) and followed by the __Get Mesh & Models Frequencies__ box which consist in the recovery of the linear frequencies and the mesh frequencies (this is just, in fact linear frequencies to which we applied a step).*
 
-![Initialization components](https://user-images.githubusercontent.com/45098441/72733881-11081980-3b99-11ea-8d64-d0a6db042717.jpeg)
+![Initialization components](https://user-images.githubusercontent.com/45098441/86895758-3e279480-c105-11ea-874f-e7a22d170a8d.JPG)
+
+
 ----------------------------
 
 
