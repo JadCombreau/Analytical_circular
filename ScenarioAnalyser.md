@@ -25,7 +25,8 @@ __This script must therefore test the existence of each member of the following 
 
 *__Scenario Analyser__ box is preceded by the __Build Paths__ box which consist in the creation of different file paths necessary for all the Workflow. This box is followed by the __Copy Init__ Workflow subpart which consists in copying folders from our Job folder (after modifications) into the Numacous folder.*
 
-![Initialization components](https://user-images.githubusercontent.com/45098441/72733938-2e3ce800-3b99-11ea-9aef-180fca448d24.jpeg)
+![Initialization components](https://user-images.githubusercontent.com/45098441/86895762-3ec02b00-c105-11ea-8d51-75418b14720b.JPG)
+
 ----------------------------
 
 
