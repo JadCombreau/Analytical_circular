@@ -20,7 +20,9 @@ The input XML file previously nammed *"input.xml"* will be copied and renamed *"
 
 *__Link Data from Numacous__ box is preceded by the __Get Mesh & Models Frequencies__ box, which consist in the creation of the Model Frequency list and followed by the __Build Paths__ box which consist in the creation of different file paths (necessary for all the Workflow)*.
 
-![Initialization components](https://user-images.githubusercontent.com/45098441/72733893-182f2780-3b99-11ea-938b-583d766d3fde.jpeg)
+![Initialization components](https://user-images.githubusercontent.com/45098441/86895761-3e279480-c105-11ea-9a34-5aedfb4b2582.JPG)
+
+
 ----------------------------
 
 ### What about variables ?
