@@ -17,8 +17,8 @@
 
 ### The left side :
 
-![Workflowleft](https://user-images.githubusercontent.com/45098441/86543318-ba5f8380-bf1d-11ea-9c7e-a93419477b31.JPG)
+![Workflowleft](https://user-images.githubusercontent.com/45098441/86895578-f99bf900-c104-11ea-886b-6301fba9bf44.JPG)
 
 ### And the right side :
 
-![Workflowright](https://user-images.githubusercontent.com/45098441/86543319-baf81a00-bf1d-11ea-92c4-f2ff833595b0.JPG)
+![Workflowright](https://user-images.githubusercontent.com/45098441/86895580-fa348f80-c104-11ea-932e-a843720f7c14.JPG)
