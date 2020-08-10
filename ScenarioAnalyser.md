@@ -1,12 +1,12 @@
 ## Scenario Analyser
 ### Script Language
 
-All the __Scenario Analyser__ box is written in Python language.
+All the __Scenario Analyser__ box is written in __Python__ language.
 ### What the box does ?
 
 The __Scenario Analyzer__ script allows you to test if there are missing folders/files after the first execution of the workflow (during the first execution, all repositories exists but are empty ...). This script therefore avoids restarting all configurations/frequencies and therefore saves a lot of time.
 
-This script must therefore be able to check if a file is missing in a specific folder (we know exactly the number of configurations and frequencies to launch).
+This script must therefore be able to check if a file is missing in a specific folder (we know exactly the number of configurations and frequencies we have to launch).
 
 To begin, this script must copy the Numacous Repository and remove folder if it already exists.
 
@@ -32,7 +32,7 @@ __This script must therefore test the existence of each member of the following 
 
 ### Which files to import ?
 
-To execute the script __Scenario Analyser__ correctly, we need to import Python libraries.
+To execute the script __Scenario Analyser__ correctly, we need to import some Python libraries.
 The table below lists all the imports to be made :
 
 | Import name | Import location |
