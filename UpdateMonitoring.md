@@ -1,13 +1,13 @@
 ## Update Monitoring
 ### Script Language
 
-All the __Update Monitoring__ box is written in Python language.
+All the __Update Monitoring__ box is written in __Python__ language.
 ### What the box does ?
 
-This script allows to update the status of the workflow and to pass the finished parts in *"completed"*.
+This script allows to update the status of the workflow and to pass the finished parts at a *"completed"* status.
 It allows to modify the XML file directly (using of the Python language DOM API - *Document Object Model*) which allows you to access the tree structure of an XML file and thus read or modify the nodes and information that interest us.
 
-__Update Monitoring__ box is preceded by the __Copy Init__ box which consists in copying folders from our Job folder (after modifications) into the Numacous folder. This is the last box of the Initialization part.
+__Update Monitoring__ box is preceded by the __Copy Init__ box which consists in copying folders from our Job folder (after modifications) into the Numacous folder (that is why in the *Link Data from Numacous* box, we copy the content in reverse. This box is the last of this Initialization part.
 
 ![Initialization components](https://user-images.githubusercontent.com/45098441/72733988-401e8b00-3b99-11ea-9015-013f4ee6d3d6.jpeg)
 ----------------------------
@@ -15,7 +15,7 @@ __Update Monitoring__ box is preceded by the __Copy Init__ box which consists in
 
 ### Which files to import ?
 
-To execute the script __Update Monitoring__ correctly, we need to import Python libraries.
+To execute the script __Update Monitoring__ correctly, we need to import some Python libraries.
 The table below lists all the imports to be made :
 
 | Import name | Import location |
