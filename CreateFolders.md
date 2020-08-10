@@ -4,7 +4,7 @@
 All the __Create Folders__ box is written in Bash (Shell UNIX language).
 ### What the box does ?
 
-This script consists in initializing an array containing the various Isight variables (containing repository names) then the creation of these different folders. In the Canonical Intake Workflow case, we need a folder for each member of this list :
+This script consists in initializing an array containing Isight variables containing repository names and then the creation of these different folders. In the Analytical Workflow case, we just need a folder for each member of this list :
 
 - Acoustic Mesh
 - Inputs
