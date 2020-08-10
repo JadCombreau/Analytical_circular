@@ -6,9 +6,7 @@ All the __Check & Read XML__ is written in Python language.
 
 This part box of the Workflow nammed  __Check & Read XML__ is for (as its name suggests) the input XML verifiying and reading. We must therefore retrieve the values that interest us.
 
-We must check the structure of the XML input file by running a specific XSD file.
-
-In the case of this Workflow (*Canonical Intake*), we need to retrieve the values for the number and the name of the configurations, the number of treatments, the frequencies as well as the name of the post-processing process (his list is not exhaustive).
+We must check the structure of the XML input file by running a specific XSD file (you can see the path in Isight settings).
 
 *__Check & Read XML__ box is preceded by the __Create Folders__ box which consist in the repository creation (contained in the *namesOfFolder* agregate) and followed by the __Get Mesh & Models Frequencies__ box which consist in the recovery of the linear frequencies and the mesh frequencies (this is just, in fact linear frequencies to which we applied a step).*
 
